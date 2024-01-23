@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rian Adi Saputro. Just call me Rian
 - 👀 I love to learning, sharing and discuss something
-- 🌱 I’m currently learning cloud computing, backend, devops, ml, and open for new topics
+- 🌱 Cureently on python data track: web data scraping, web automation, django backend
 - 📫 Lets meet on Linkedln https://www.linkedin.com/in/rian-adi-saputro-555496206/
 
 <!---
